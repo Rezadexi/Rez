@@ -1,0 +1,2 @@
+# Rez
+Zphisher.sh
